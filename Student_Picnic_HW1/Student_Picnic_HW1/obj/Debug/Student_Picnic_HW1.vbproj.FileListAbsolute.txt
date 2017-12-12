@@ -1,0 +1,4 @@
+C:\Users\Solidmetall\Desktop\Student_Picnic_HW1\Student_Picnic_HW1\bin\Debug\Student_Picnic_HW1.exe.config
+C:\Users\Solidmetall\Desktop\Student_Picnic_HW1\Student_Picnic_HW1\obj\Debug\Student_Picnic_HW1.exe
+C:\Users\Solidmetall\Desktop\Student_Picnic_HW1\Student_Picnic_HW1\obj\Debug\Student_Picnic_HW1.xml
+C:\Users\Solidmetall\Desktop\Student_Picnic_HW1\Student_Picnic_HW1\obj\Debug\Student_Picnic_HW1.pdb
