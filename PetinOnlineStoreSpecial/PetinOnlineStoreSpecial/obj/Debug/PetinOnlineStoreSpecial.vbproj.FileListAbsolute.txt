@@ -1,0 +1,10 @@
+c:\users\solidmetall\documents\visual studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\bin\Debug\PetinOnlineStoreSpecial.exe.config
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\bin\Debug\PetinOnlineStoreSpecial.exe
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\bin\Debug\PetinOnlineStoreSpecial.pdb
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\bin\Debug\PetinOnlineStoreSpecial.xml
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\obj\Debug\PetinOnlineStoreSpecial.frmMain.resources
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\obj\Debug\PetinOnlineStoreSpecial.Resources.resources
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\obj\Debug\PetinOnlineStoreSpecial.vbproj.GenerateResource.Cache
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\obj\Debug\PetinOnlineStoreSpecial.exe
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\obj\Debug\PetinOnlineStoreSpecial.xml
+C:\Users\Solidmetall\Documents\Visual Studio 2012\Projects\PetinOnlineStoreSpecial\PetinOnlineStoreSpecial\obj\Debug\PetinOnlineStoreSpecial.pdb
